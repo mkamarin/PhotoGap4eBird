@@ -34,23 +34,23 @@ The process has two parts, first you need to export the two input CSV files and 
 
 1- Login into your [eBird](https://ebird.org/home) account and in the first page, you should select 'My eBird'.
 
-![](https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot My eBird.png "")
+![]("https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot My eBird.png" "")
 
 2- You will arrive at the World page. In there click on the 'Species observed'.
 
-![](https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World 1.png)
+![]("https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World 1.png")
 
 3- You will arrive to the 'World Life List' page and click on 'Download (csv)'. That will download a file called 'ebird_world_life_list.csv' that contains all the species you have observed.
 
-![](https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World Life List.png)
+![]("https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World Life List.png")
 
 4- Go back to the 'My eBird' page, and then click in 'Species with photos'
 
-![](https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World 2.png)
+![]("https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot World 2.png")
 
 5- Which will take you to your pictures, in that page click on 'Export'. This will download a new csv file with a row for each photo you have contributed.
 
-![](https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot photos.png)
+![]("https://github.com/mkamarin/PhotoGap4eBird/tree/main/pics/Screenshot photos.png")
 
 6- Place those two files in the same directory (folder). The next step can be simplified if you place the files in the same directory (folder) in which you have the tool `PhotoGap4eBird.py`.
 
